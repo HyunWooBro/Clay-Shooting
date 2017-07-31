@@ -1,0 +1,184 @@
+﻿빌드 시작: 2012-12-21 오후 9:07:45
+     1>2 노드의 "C:\Users\김현준\Desktop\기록\2012.12.21 금요일\Octree\Octree3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 ".\Debug\Octree3.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.h(135): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\camera.h(71): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(266): warning C4305: '초기화 중' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(445): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(445): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(445): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(446): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(446): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(446): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(475): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(475): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(475): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(476): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(476): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(476): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(477): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(477): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(478): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(478): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(478): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(479): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(479): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(479): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(480): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(480): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(481): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(483): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(483): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(483): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(484): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(484): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(484): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(485): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(485): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(485): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(486): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(486): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(486): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(487): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(487): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(487): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(488): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(488): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(488): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(489): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(489): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(489): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(490): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(490): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(490): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(491): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(493): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(493): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(493): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(494): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(494): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(494): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(495): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(495): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(496): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(496): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(496): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(497): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(497): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(497): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(498): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(498): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(499): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(499): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(500): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(500): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(500): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(501): warning C4305: '=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(706): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(716): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(760): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(852): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(857): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(924): warning C4244: '인수' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(926): warning C4244: '인수' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(928): warning C4244: '인수' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(930): warning C4244: '인수' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(959): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(991): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(997): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1003): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1013): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1041): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1072): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1073): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1078): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1079): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1084): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1085): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1090): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1091): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1096): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1097): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1107): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1164): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1165): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1165): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1170): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1171): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1171): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1176): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1177): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1177): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1182): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1183): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1183): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1188): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1189): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1189): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1194): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1195): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1195): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1200): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1201): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1201): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1241): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1280): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1439): warning C4805: '==' : 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+     1>c:\users\김현준\desktop\기록\2012.12.21 금요일\octree\main.cpp(1586): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Octree3.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib bass.lib /MANIFEST /ManifestFile:".\Debug\Octree3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\김현준\Desktop\기록\2012.12.21 금요일\Octree\Debug\Octree3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Octree3.lib" /MACHINE:X86 .\Debug\Octree3.exe.embed.manifest.res
+         .\Debug\3ds.obj
+         .\Debug\bspline.obj
+         .\Debug\Camera.obj
+         .\Debug\CameraAnimation.obj
+         .\Debug\collision.obj
+         .\Debug\decal.obj
+         .\Debug\flare.obj
+         .\Debug\Frustum.obj
+         .\Debug\general.obj
+         .\Debug\glfont.obj
+         .\Debug\GameMenu.obj
+         .\Debug\Init.obj
+         .\Debug\Main.obj
+         .\Debug\matrix.obj
+         .\Debug\Octree.obj
+         .\Debug\particle.obj
+         .\Debug\quat.obj
+         .\Debug\sound.obj
+         .\Debug\Target.obj
+         .\Debug\texture.obj
+         .\Debug\vector.obj
+         .\Debug\vertex.obj
+         .\Debug\ZFLog.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\Octree3.exe.embed.manifest" /manifest .\Debug\Octree3.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         Octree3.vcxproj -> C:\Users\김현준\Desktop\기록\2012.12.21 금요일\Octree\.\Debug\Octree3.exe
+       FinalizeBuildStatus:
+         ".\Debug\Octree3.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         ".\Debug\Octree3.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\김현준\Desktop\기록\2012.12.21 금요일\Octree\Octree3.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.01
