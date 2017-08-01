@@ -7,4 +7,7 @@ Development Enviornment
 * IDE : Visual Studio
 * Language : Korean
 
+Based on an Octree demo found on the internet
+
 Source not arranged yet
+
